@@ -1,2 +1,2 @@
-class Cal:
+class PrimeFactor:
     ...

@@ -1,6 +1,6 @@
-from prime_factor import Cal
+from prime_factor import PrimeFactor
 
 
 def test_prime_factor():
-    c = Cal()
+    c = PrimeFactor()
     assert c is not None
