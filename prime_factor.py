@@ -1,10 +1,10 @@
 class PrimeFactor:
     ...
 
-    def of(self, param)-> []:
+    def of(self, number)-> []:
         factors = []
-        if param == 1:
+        if number == 1:
             return factors
-        if param == 2:
+        if number == 2:
             factors.append(2)
         return factors
